@@ -14,7 +14,7 @@ Welcome to the **FastAPI Backend Automation Project**! This project sets up a li
 ## 📦 Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-username/FastAPI-Automation.git
+ git clone https://github.com/sachine7474/Test-Automation.git
  cd FastAPI-Automation
 ```
 
